@@ -16,4 +16,6 @@ Data Analytics Project – An end-to-end vendor performance analysis using Pytho
 1. Clone this repository
 2. Install dependencies:
    ```bash
+   python -m venv venv
+   venv\Scripts\activate
    pip install -r requirements.txt
